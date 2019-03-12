@@ -32,6 +32,11 @@ form {margin-bottom: 0;}
 /* ==========================================================================
 Classes
 ========================================================================== */
+
+/* government */
+.government{
+	margin: 0px 100px 0px 100px;
+}
 .cover {-webkit-background-size: cover; -moz-background-size: cover;-o-background-size: cover; background-size: cover; background-attachment: fixed; }
 
 .thin {font-weight: 300;}
